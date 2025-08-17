@@ -1,0 +1,42 @@
+h1 {
+    color: blue;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 100px;
+    background-color: yellow;
+
+}
+p{
+    
+    color:yellow;
+    text-align: left;
+    text-size-adjust: 80px;
+    
+}
+p{color: red;
+    -webkit-text-size-adjust: 80;
+}
+.box-model p{
+    width: 700px;
+    height: 600px;
+    background-color: red;
+    padding: 20px;
+    border: 4px solid black;
+    margin: 30px;
+}
+.box p{
+    width: 500px;
+    height: 400px;
+    background-color: blue;
+    padding: 10px;
+    border: 2px;
+    margin: 20px auto;
+}
+
+.box p{
+    
+    color: white;
+  font-size: 20px;
+  text-align: center;
+    
+}
